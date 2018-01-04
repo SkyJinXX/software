@@ -19,14 +19,19 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Close();
-            Form1 form = new Form1();
-            form.Show();
+            
         }
 
         private void Form2_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Form3 form = new Form3();
+            form.Show();
         }
     }
 }
