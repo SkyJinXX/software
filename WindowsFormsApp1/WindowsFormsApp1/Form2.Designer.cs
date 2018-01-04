@@ -46,8 +46,10 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(499, 313);
+            this.BackgroundImage = global::WindowsFormsApp1.Properties.Resources._3;
+            this.ClientSize = new System.Drawing.Size(782, 529);
             this.Controls.Add(this.button1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Name = "Form2";
             this.Text = "登录界面";
             this.Load += new System.EventHandler(this.Form2_Load);
