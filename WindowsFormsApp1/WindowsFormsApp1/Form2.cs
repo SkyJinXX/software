@@ -19,7 +19,7 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("登录成功！", "友情提示");
             this.Close();
             Form5 form1 = new Form5();
             form1.Show();
@@ -32,7 +32,7 @@ namespace WindowsFormsApp1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("登录成功！", "友情提示");
+           
             this.Close();
             Form3 form = new Form3();
             form.Show();
