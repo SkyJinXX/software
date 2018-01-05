@@ -19,3 +19,5 @@ C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\obj\Debu
 C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.A.resources
+C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
