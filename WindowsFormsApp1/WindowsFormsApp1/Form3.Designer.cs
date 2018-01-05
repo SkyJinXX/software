@@ -70,6 +70,7 @@
             // 
             // textBox2
             // 
+            this.textBox2.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
             this.textBox2.Location = new System.Drawing.Point(344, 199);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
@@ -106,6 +107,7 @@
             this.button2.TabIndex = 8;
             this.button2.Text = "注册";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
@@ -117,6 +119,7 @@
             this.button1.TabIndex = 9;
             this.button1.Text = "返回";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form3
             // 

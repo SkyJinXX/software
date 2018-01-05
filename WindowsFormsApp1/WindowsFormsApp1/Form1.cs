@@ -24,9 +24,11 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("成功进入！","友情提示");
             this.Visible = false;
             Form2 form = new Form2();
             form.Show();
+
         }
 
         private void label1_Click(object sender, EventArgs e)

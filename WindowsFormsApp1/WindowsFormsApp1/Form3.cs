@@ -21,5 +21,17 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("注册成功！", "友情提示");
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Form2 form = new Form2();
+            form.Show();
+        }
     }
 }

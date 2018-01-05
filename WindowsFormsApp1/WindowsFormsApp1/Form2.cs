@@ -33,5 +33,10 @@ namespace WindowsFormsApp1
             Form3 form = new Form3();
             form.Show();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
