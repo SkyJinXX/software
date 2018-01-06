@@ -74,6 +74,7 @@
             this.textBox2.Location = new System.Drawing.Point(344, 199);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
+            this.textBox2.PasswordChar = '*';
             this.textBox2.Size = new System.Drawing.Size(229, 34);
             this.textBox2.TabIndex = 5;
             // 
@@ -82,6 +83,7 @@
             this.textBox3.Location = new System.Drawing.Point(344, 280);
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
+            this.textBox3.PasswordChar = '*';
             this.textBox3.Size = new System.Drawing.Size(229, 34);
             this.textBox3.TabIndex = 6;
             this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
@@ -137,7 +139,7 @@
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Name = "Form3";
-            this.Text = "Form3";
+            this.Text = "管理员注册";
             this.ResumeLayout(false);
             this.PerformLayout();
 

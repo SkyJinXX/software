@@ -76,5 +76,12 @@ namespace WindowsFormsApp1
 
             return sql;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Form5 f = new Form5();
+            f.Show();
+        }
     }
 }

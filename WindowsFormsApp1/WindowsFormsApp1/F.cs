@@ -59,5 +59,12 @@ namespace WindowsFormsApp1
             dataGridView1.AutoGenerateColumns = true;
             conn.Close();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Form5 f = new Form5();
+            f.Show();
+        }
     }
 }

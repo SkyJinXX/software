@@ -62,5 +62,26 @@ namespace WindowsFormsApp1
 
             return sql;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string connstr = ConfigurationManager.ConnectionStrings["ConStr"].ToString();
+            SqlConnection conn = new SqlConnection(connstr);
+            conn.Open();
+            String sql = SqlFlush();
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
+            DataSet ds = new DataSet();
+            da.Fill(ds);
+            dataGridView1.DataSource = ds.Tables[0];
+            dataGridView1.AutoGenerateColumns = true;
+            conn.Close();
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
+            Form5 f = new Form5();
+            f.Show();
+        }
     }
 }

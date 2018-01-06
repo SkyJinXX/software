@@ -23,3 +23,11 @@ C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\obj\Debu
 C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
 C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.E.resources
 C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.F.resources
+C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.B.resources
+C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.C.resources
+C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.D.resources
+C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.H.resources
+C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\as\Documents\GitHub\software\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application

@@ -33,27 +33,37 @@ namespace WindowsFormsApp1
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            this.Close();
+            B f = new B();
+            f.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            this.Close();
+            C f = new C();
+            f.Show();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-
+            this.Close();
+            D f = new D();
+            f.Show();
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-
+            this.Close();
+            E f = new E();
+            f.Show();
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-
+            this.Close();
+            F f = new F();
+            f.Show();
         }
     }
 }
